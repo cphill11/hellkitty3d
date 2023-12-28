@@ -22,7 +22,7 @@ GitHub:
 Heroku: (to be added at point of deployment)
 
 ## Credits
-Hippie8827 and Hellkitty742
+Hippie8827 and Hellkitty742 (aka Hellkitty69)
 
 ## Contributing
 Sticky paws off unless checking with original creator first.  No exceptions.
