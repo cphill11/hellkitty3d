@@ -17,7 +17,7 @@ Digital showcase for 3D models as created by the artist Hellkitty742
 
 
 ## Links
-GitHub: 
+GitHub: https://github.com/cphill11/hellkitty69-showcase.git
 
 Heroku: (to be added at point of deployment)
 
