@@ -1,3 +1,5 @@
+<!-- contact form w/ php; may be able to convert all this to javascript w/ node in future when updating functionality -->
+<!-- html contact form from node projects; page should look same; Bret said he will help sorting as needed -->
 <?php
 
 if(!$_POST) exit;
