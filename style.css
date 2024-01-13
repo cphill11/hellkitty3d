@@ -2248,7 +2248,6 @@ Primary use:	Showcase Portfolio
 	.menu-overlay #menu-burger {
 		display:block;
 	}
-	
 
 	.burger-dots #menu-burger span {
 	  display: block;
@@ -2864,7 +2863,11 @@ Primary use:	Showcase Portfolio
 	}
 	
 	.light-content .button-text, .dark-section .button-text {
-		color:#fff;
+		color:rgb(99, 106, 133);
+	}
+
+	.light-content:hover .button-text:hover, .dark-section:hover .button-text:hover{
+		color:rgb(56, 168, 202);
 	}
 	
 	.light-content .light-section .button-text {
