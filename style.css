@@ -80,7 +80,7 @@ Primary use:	Showcase Portfolio
 		opacity:0;
 	}
 	
-	main111 {
+	main {
 		-webkit-transition: background 0.5s ease-in-out 0s;
 		transition: background 0.5s ease-in-out 0s;
 	}
@@ -375,16 +375,16 @@ Primary use:	Showcase Portfolio
 	}
 	
 	figcaption {
-		background-color: rgba(0,0,0,0.3);
+		background-color: rgba(82, 76, 76, 0.3);
 		bottom: 0px;
-		color: #fff;
+		color: rgb(94, 85, 142);
 		font-weight:400;
 		font-size: 10px;
 		padding: 5px 10px;
 		position: absolute;
 		right: 0px;
 		z-index: 10;
-		border-radius:0;
+		border-radius:5px;
 	}
 	
 	fieldset {
@@ -3049,6 +3049,10 @@ Primary use:	Showcase Portfolio
 		background:transparent;
 	}
 	
+#redbubble {
+	color: rgb(135, 41, 41);
+	background-color: rgb(156, 159, 169);
+}
 /*--------------------------------------------------
 	07. Responsive
 ---------------------------------------------------*/			
