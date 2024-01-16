@@ -28,14 +28,14 @@ Heroku: (to be added at point of deployment)
 
 
 Local site for testing: 
-http://localhost/~cristephillips/hellkitty742-showcase/index.html
+http://localhost/~cristephillips/hellkitty69-showcase/index.html
 
 Redbubble sales link:
 https://www.redbubble.com/people/Hellkitty742/shop
 
 
 ## Credits
-Hippie8827 and Hellkitty742 (aka Hellkitty69)
+Hippie8827 and Hellkitty742
 
 ## Contributing
 Sticky paws off unless checking with original creator first.  No exceptions.
