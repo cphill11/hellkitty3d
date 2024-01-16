@@ -10,20 +10,25 @@
 * [Contributing](#contributing)
 
 ## Description
-Digital showcase for 3D models as created by the artist Hellkitty742
+Digital showcase for 3D models as created by the artist Hellkitty742.
+
+
 
 
 ## Installation
-
+Javascript
+HTML5
+PHP
+CSS
 
 ## Links
-GitHub: https://github.com/cphill11/hellkitty69-showcase.git
+GitHub: https://github.com/cphill11/hellkitty742-showcase.git
 
 Heroku: (to be added at point of deployment)
 
 
 Local site for testing: 
-http://localhost/~cristephillips/hellkitty69-showcase/index.html
+http://localhost/~cristephillips/hellkitty742-showcase/index.html
 
 Redbubble sales link:
 https://www.redbubble.com/people/Hellkitty742/shop
