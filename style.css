@@ -3045,11 +3045,11 @@ Primary use:	Showcase Portfolio
 	nav, nav.open {
 		background:transparent;
 	}
-	
+/* 	
 #redbubble {
 	color: rgb(135, 41, 41);
 	background-color: rgb(156, 159, 169);
-}
+} */
 
 #column-left {
 	float: left;
