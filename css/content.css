@@ -2,8 +2,6 @@
 /*--------------------------------------------------
 	Hero Section
 ---------------------------------------------------*/			
-	
-	
 	#hero {		
 		width:100%;
 		height:auto;
@@ -126,7 +124,7 @@
 	}
 	
 	.hero-title-wrapper {
-		margin-left:-0.3vw;		
+		margin-left:-0.3vw;	
 	}
 	
 	#hero.has-image .hero-title-wrapper {

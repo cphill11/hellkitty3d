@@ -2511,12 +2511,9 @@ Primary use:	Showcase Portfolio
 		margin: 0 auto;	
 	}
 	
-	.uppercase-text .copyright {
-		text-transform:uppercase;
-	}
-	
+/* model page copyright text */
 	.light-content .copyright {
-		color:#fff;
+		color:rgba(116, 125, 128, 0.728);
 	}
 	
 	.socials-wrap {
@@ -3057,7 +3054,10 @@ Primary use:	Showcase Portfolio
 #column-left {
 	float: left;
 }
-
+.column-center {
+	color: blue;
+}
 #column-right {
 	float: right;
-}		
+}
+	

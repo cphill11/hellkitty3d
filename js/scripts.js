@@ -19,7 +19,7 @@ jQuery(function ($) {
 		FitThumbScreenWEBGL();
 		Shortcodes();		
 		Core();
-		JustifiedGrid();
+		// JustifiedGrid();
 		Lightbox();
 		ContactForm();	
 		PlayVideo();
@@ -1934,7 +1934,7 @@ Function Showcase Gallery
 		FitThumbScreenWEBGL();		
 		LazyLoad();	
 		Shortcodes();		
-		JustifiedGrid();
+		// JustifiedGrid();
 		Lightbox();
 		PlayVideo();
 		ContactForm();

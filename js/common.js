@@ -2022,19 +2022,19 @@ Function Sliders
 Function Justified Grid
 ---------------------------------------------------*/	
 	
-	window.JustifiedGrid = function() {
+	// window.JustifiedGrid = function() {
 		
-		if( $('.justified-grid').length > 0 ){
+	// 	if( $('.justified-grid').length > 0 ){
 		
-			$('.justified-grid').justifiedGallery({
-				rowHeight : 360,
-				lastRow : 'nojustify',
-				margins : 10
-			});
+	// 		$('.justified-grid').justifiedGallery({
+	// 			rowHeight : 360,
+	// 			lastRow : 'nojustify',
+	// 			margins : 10
+	// 		});
 		
-		}
+	// 	}
 		
-	}//End Justified Grid	
+	// }//End Justified Grid	
 	
 	
 /*--------------------------------------------------
@@ -3148,7 +3148,7 @@ Function Core
 	var FitThumbScreenGSAP = window.FitThumbScreenGSAP;
 	var Shortcodes = window.Shortcodes;
 	var Sliders = window.Sliders;
-	var JustifiedGrid = window.JustifiedGrid;
+	// var JustifiedGrid = window.JustifiedGrid;
 	var Lightbox = window.Lightbox;
 	var PlayVideo = window.PlayVideo;
 	var isMobile = window.isMobile;
