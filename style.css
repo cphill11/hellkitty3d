@@ -85,7 +85,7 @@ Primary use:	Showcase Portfolio
 		transition: background 0.5s ease-in-out 0s;
 	}
 	
-	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	html, body,  span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 		border: 0;
 		margin: 0;
 		outline: 0;
@@ -728,7 +728,7 @@ Primary use:	Showcase Portfolio
 		width: 30.6%!important;
 	}	
 
-	.one_fourth {
+    .one_fourth {
 		width: 22%!important;
 	}	
 
@@ -2411,11 +2411,11 @@ Primary use:	Showcase Portfolio
 		color:#fff!important;
 	}
 	
-	
+
 /*--------------------------------------------------
 	05. Main Content
 ---------------------------------------------------*/		
-	
+
 	#content-scroll {
 		z-index:1;
 		position:relative;
@@ -3045,11 +3045,11 @@ Primary use:	Showcase Portfolio
 	nav, nav.open {
 		background:transparent;
 	}
-/* 	
-#redbubble {
+	
+#redbubble:hover{
 	color: rgb(135, 41, 41);
-	background-color: rgb(156, 159, 169);
-} */
+	background-color: rgb(53, 83, 182);
+}
 
 #column-left {
 	float: left;
@@ -3060,4 +3060,19 @@ Primary use:	Showcase Portfolio
 #column-right {
 	float: right;
 }
-	
+
+#djl-image {
+	background-image: url("images/projects/08-deep-ocean-djl.png");
+}
+
+.column {
+	float: left;
+	width: 33.33%;
+ }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }

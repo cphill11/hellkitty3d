@@ -402,10 +402,12 @@
 		
 	}
 	
-	.rounded-borders .image-link img, .rounded-borders .video-link img {
+	.rounded-borders, .rounded-borders .video-link img {
 		border-radius:8px;
 	}
 	
+
+
 	.disable-cursor .image-link::after {
 		font: var(--fa-font-solid);
 		content: "\f002";
