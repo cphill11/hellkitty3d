@@ -28,7 +28,7 @@ Heroku: (to be added at point of deployment)
 
 
 Local site for testing: 
-http://localhost/~cristephillips/hellkitty69-showcase/index.html
+http://localhost/~cristephillips/hellkitty3d/index.html
 
 Redbubble sales link:
 https://www.redbubble.com/people/Hellkitty742/shop
