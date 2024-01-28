@@ -24,8 +24,6 @@ CSS
 ## Links
 GitHub: https://github.com/cphill11/hellkitty742-showcase.git
 
-Heroku: (to be added at point of deployment)
-
 
 Local site for testing: 
 http://localhost/~cristephillips/hellkitty3d/index.html
