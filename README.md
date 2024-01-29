@@ -22,7 +22,7 @@ PHP
 CSS
 
 ## Links
-GitHub: https://github.com/cphill11/hellkitty742-showcase.git
+GitHub: https://github.com/cphill11/hellkitty3d.git
 
 
 Local site for testing: 
