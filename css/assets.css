@@ -553,8 +553,23 @@
 /*--------------------------------------------------
 	ClaPat Popup
 ---------------------------------------------------*/	
-	
-	.clapat-img-popup, .clapat-video-popup {
+  /* Orig
+.clapat-img-popup, .clapat-video-popup {
+	position:fixed;
+	height:100%;
+	width:100%;
+	z-index:10000;
+	left:0;
+	top:0;
+	right:0;
+	bottom:0;
+	display:flex;
+	justify-content: center;	
+	  align-items: center;
+}	 */
+
+/* w/out video*/
+	.clapat-img-popup {
 		position:fixed;
 		height:100%;
 		width:100%;

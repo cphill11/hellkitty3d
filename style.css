@@ -726,6 +726,7 @@ Primary use:	Showcase Portfolio
 
 	.one_third {
 		width: 30.6%!important;
+		box-shadow: 5px 10px 5px #a89c8c;
 	}	
 
     .one_fourth {
