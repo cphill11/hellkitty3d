@@ -34,6 +34,9 @@ https://www.redbubble.com/people/Hellkitty742/shop
 FB Media Link:
 https://www.facebook.com/profile.php?id=61556462017346
 
+Youtube Link:
+https://www.youtube.com/@Hellkitty-Hellspawn
+
 ## Credits
 Hippie8827 and Hellkitty742
 
