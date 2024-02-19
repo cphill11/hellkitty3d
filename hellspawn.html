@@ -11,6 +11,11 @@
 		ga('create', 'code_here', 'auto');
 		ga('send', 'pageview');
 	</script>
+       <script>
+        document.addEventListener("contextmenu", (event) => {
+           event.preventDefault();
+        });
+     </script>
     
     <title>Hellspawn Gallery</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -154,7 +159,7 @@
                     </div>
                     <div id="hero-image-wrapper">
                     	<div id="hero-background-layer" class="parallax-scroll-image">
-                            <div id="hero-bg-image" style="background-image:url(images/01hs-in-forrest.jpg)"></div>
+                            <div id="hero-bg-image" style="background-image:url(images/01hs-in-forrest.jpg)" protected></div>
                         </div>
                     </div>                        
                     <!--/Hero Section -->    

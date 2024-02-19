@@ -1945,7 +1945,6 @@ Function Showcase Gallery
 	
 });	
 
-
 var LoadViaAjax = window.LoadViaAjax;	
 	
 	
