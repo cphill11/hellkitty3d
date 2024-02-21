@@ -747,6 +747,7 @@
 	#main-page-content .button-text, #hero .button-text {
 		display:block;
 	}
+
 }
 
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px) and (orientation : landscape) {
