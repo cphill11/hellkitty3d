@@ -3048,7 +3048,9 @@ Primary use:	Showcase Portfolio
 	}
 
 
- 
+ p #backstory {
+	 padding: 0 0 0 200px;
+ }
  #flex-container {
 	 display: flex;
 	 justify-content: space-around;
