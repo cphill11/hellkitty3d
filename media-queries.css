@@ -599,10 +599,10 @@
 		opacity:1;
 	}
 	
-	.footer-middle {
+	.footer-middle, .footer-middle-landing {
 		max-width: 1180px;
 		height:20px;
-		position: absolute;
+		position: relative;
 		margin: 0 auto;
 		left: 0;
 		width: 100%;
@@ -610,6 +610,11 @@
 		margin-bottom: 15px;
 	}
 	
+	.footer-middle-landing {
+		position: absolute; 
+	}
+
+
 	.copyright {
 		margin: 0 auto;
 		left: auto;

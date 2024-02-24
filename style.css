@@ -2482,7 +2482,7 @@ Primary use:	Showcase Portfolio
 		left: 0;
 	}
 	
-	.footer-middle {
+	.footer-middle, .footer-middle-landing {
 		position: absolute;
 		margin: 0 auto;
 		width: 100%;
@@ -2491,7 +2491,7 @@ Primary use:	Showcase Portfolio
 		left: 0;
 		pointer-events: none;;
 	}
-	
+		
 	.copyright {
 		position: relative;
 		top: 25px;
