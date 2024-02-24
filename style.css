@@ -2692,6 +2692,7 @@ Primary use:	Showcase Portfolio
 	
 	.socials li a:hover {
 		color: #000;
+		padding: 0 10px 0 10px;
 		opacity:1;
 	}
 	
