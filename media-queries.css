@@ -652,7 +652,7 @@
 	.socials li, .socials li a {
 		height: 20px;
 		line-height: 20px;
-		margin: 0 auto;
+		margin: 0 20px 0 0;
 	}
 	#flex-container {
 		display: flex;
